@@ -1,2 +1,2 @@
 # Aikhal-s-repository
-4 course
+первая практическая работа в курсе
